@@ -32,4 +32,6 @@
       "rules": {}
     }
   ]
+  // to prevent empty block error
+  // "no-empty": false
 }
