@@ -14,5 +14,8 @@ export class AppComponent implements OnInit {
   ngOnInit(): void {
     // this.movies = (data as any).default;
     // this.movies$.subscribe((data) => console.log(data));
+    // this.movies$.subscribe((data) => console.log(data));
+    // this.movies$.subscribe((data) => console.log(data));
+    // this.movies$.subscribe((data) => console.log(data));
   }
 }
