@@ -9,8 +9,6 @@ export class MovieCardComponent implements OnInit {
   @Input() movie: any;
   name: string;
   constructor() {}
-
-  //made a change
   ngOnInit(): void {
     console.log(this.movie);
   }
