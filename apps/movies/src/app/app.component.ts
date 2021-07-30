@@ -9,7 +9,6 @@ import * as data from './movies.json';
 export class AppComponent implements OnInit {
   title = 'Movie List';
   movies: any;
-// made another change
   constructor() {}
   ngOnInit(): void {
     // this.movies = (data as any).default;
